@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BottomNavigationBarPractice</string>
+    <string name="text_home">Home</string>
+    <string name="text_favorite">Favorite</string>
+    <string name="text_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="HomeFragment">Home Fragment</string>
+    <string name="FavoriteFragment">Favorite Fragment</string>
+    <string name="SettingsFragment">Settings Fragment</string>
+</resources>
