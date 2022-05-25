@@ -7,4 +7,4 @@ Using BottomNavigationBar With Material 3 Theme
 # Material 3 Design
 <img src="/screenshot/Screenshot_m3.png" width="300">
 
-![Showcase](.github/screenshot/M3Demo.gif)
+![Showcase](/screenshot/M3Demo.gif)
