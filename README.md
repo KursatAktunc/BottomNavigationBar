@@ -6,7 +6,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://raw.githubusercontent.com/KursatAktunc/BottomNavigationBar/master/screenshot/Screenshot_m2.png" alt="project-screenshot" width="400px"/>  <img src="https://raw.githubusercontent.com/KursatAktunc/BottomNavigationBar/master/screenshot/Screenshot_m3.png" alt="project-screenshot" width="400px"/>
+|Material 2|Material 3|
+|--|--|
+|![](screenshot/Screenshot_m2.png?raw=true)|![](screenshot/Screenshot_m3.png?raw=true)|
 
 <h2>🚀 Demo</h2>
 <img src="https://raw.githubusercontent.com/KursatAktunc/BottomNavigationBar/master/screenshot/M3Demo.gif?raw=true" alt="project-screenshot" width="400px"/>
